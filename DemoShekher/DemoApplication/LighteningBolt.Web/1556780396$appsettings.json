@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    //"Server=CHETUIWK0012\\SQLEXPRESS;Database=AbpZeroTemplateDb64;User Id=sa; Password=Chetu@123;"
+    //"DefaultConnection": "Server=DESKTOP-4AI7UDL;Database=LighteningBoltDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "Server=SHEKHAR-PC\\SQLEXPRESS; Database=LighteningBoltDbSK; User Id=sa; Password=root;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}

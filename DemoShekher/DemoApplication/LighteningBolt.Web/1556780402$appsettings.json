@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+
+    "DefaultConnection": "Server=SHEKHAR-PC\\SQLEXPRESS; Database=LighteningBoltDbSK; User Id=sa; Password=root;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
